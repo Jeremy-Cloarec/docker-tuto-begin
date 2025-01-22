@@ -1,0 +1,14 @@
+{
+  "name": "docker-tuto",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Tuto Docker from https://www.youtube.com/watch?v=pg19Z8LL06w",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
